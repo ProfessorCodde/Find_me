@@ -1,6 +1,8 @@
-# Room_Search
+# Find_Me
 
 Description of the Application
-The application will serve as an intermediary between people who are in search of an accomodation and the ones who own them
+
+The application will be used to keep the whereabouts of individuals who need to be looked after
+
 
 
